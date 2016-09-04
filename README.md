@@ -1,1 +1,2 @@
 # DeleteableListView
+这是一个带左滑删除功能的自定义ListView，最外层事件拦截处理还有点小瑕疵有待改进
